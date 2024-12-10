@@ -1,0 +1,3 @@
+[submodule "RSyslog"]
+	path = RSyslog
+	url = https://github.com/resilmesh2/RSyslog.git
