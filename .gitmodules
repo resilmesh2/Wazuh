@@ -4,6 +4,6 @@
 [submodule "Decoders"]
 	path = Decoders
 	url = https://github.com/resilmesh2/Decoders.git
-[submodule "Correlation-Rules"]
-	path = Correlation-Rules
-	url = https://github.com/resilmesh2/Correlation-Rules.git
+[submodule "Rules"]
+	path = Rules
+	url = https://github.com/resilmesh2/Rules
